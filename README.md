@@ -50,7 +50,7 @@ Kaggle Link: [IBM HR Analytics Attrition Dataset](https://www.kaggle.com/dataset
 
 ##  Files Included
 
-- `Employee_Attrition_Analysis.ipynb` (Jupyter Notebook)
+- `Employee_attrition_prediction.ipynb` (Jupyter Notebook)
 - `requirements.txt` (Python dependencies)
 - `README.md` (Project documentation)
 
