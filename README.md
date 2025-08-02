@@ -2,22 +2,22 @@
 
 This project involves analyzing and predicting employee attrition using IBM HR Analytics data.
 
-## 🔍 Problem Statement
+##  Problem Statement
 
 The goal is to identify key factors behind employee attrition and build a machine learning model to predict whether an employee is likely to leave the company.
 
-## 📁 Dataset
+##  Dataset
 
 Kaggle Link: [IBM HR Analytics Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
-## 🧪 Tools Used
+##  Tools Used
 
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
 
-## 📊 Part 1: Exploratory Data Analysis (EDA)
+##  Part 1: Exploratory Data Analysis (EDA)
 
 - Total employees vs attrition count
 - Age comparison (left vs stayed)
@@ -27,7 +27,7 @@ Kaggle Link: [IBM HR Analytics Attrition Dataset](https://www.kaggle.com/dataset
 - Monthly income impact
 - Missing values detection
 
-## 📈 Part 2: Visualizations
+##  Part 2: Visualizations
 
 - Bar chart: Attrition count
 - Boxplot: MonthlyIncome vs Attrition
@@ -36,7 +36,7 @@ Kaggle Link: [IBM HR Analytics Attrition Dataset](https://www.kaggle.com/dataset
 - Countplot: JobSatisfaction vs Attrition
 - Heatmap: Correlation matrix
 
-## 🤖 Part 3: Machine Learning
+##  Part 3: Machine Learning
 
 - Preprocessing: Label Encoding, One-Hot Encoding
 - Models used:
@@ -48,13 +48,13 @@ Kaggle Link: [IBM HR Analytics Attrition Dataset](https://www.kaggle.com/dataset
   - Classification Report
   - ROC Curve
 
-## 📁 Files Included
+##  Files Included
 
 - `Employee_Attrition_Analysis.ipynb` (Jupyter Notebook)
 - `requirements.txt` (Python dependencies)
 - `README.md` (Project documentation)
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 pip install -r requirements.txt
